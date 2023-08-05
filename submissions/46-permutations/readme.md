@@ -1,0 +1,1 @@
+# [46 - Permutations](https://leetcode.com/problems/permutations/) </br> Difficulty: Medium

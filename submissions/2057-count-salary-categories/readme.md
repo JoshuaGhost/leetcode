@@ -1,0 +1,1 @@
+# [2057 - Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) </br> Difficulty: Medium

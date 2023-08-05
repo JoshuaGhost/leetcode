@@ -1,0 +1,1 @@
+# [1708 - Design Parking System](https://leetcode.com/problems/design-parking-system/) </br> Difficulty: Easy

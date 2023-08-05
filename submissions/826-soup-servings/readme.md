@@ -1,0 +1,1 @@
+# [826 - Soup Servings](https://leetcode.com/problems/soup-servings/) </br> Difficulty: Medium

@@ -1,0 +1,1 @@
+# [1948 - Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) </br> Difficulty: Easy

@@ -1,0 +1,1 @@
+# [1291 - Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) </br> Difficulty: Easy

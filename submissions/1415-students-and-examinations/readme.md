@@ -1,0 +1,1 @@
+# [1415 - Students and Examinations](https://leetcode.com/problems/students-and-examinations/) </br> Difficulty: Easy

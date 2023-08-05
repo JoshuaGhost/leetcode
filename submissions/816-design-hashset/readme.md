@@ -1,0 +1,1 @@
+# [816 - Design HashSet](https://leetcode.com/problems/design-hashset/) </br> Difficulty: Easy

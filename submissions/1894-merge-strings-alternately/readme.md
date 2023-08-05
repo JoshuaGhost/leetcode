@@ -1,0 +1,1 @@
+# [1894 - Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) </br> Difficulty: Easy

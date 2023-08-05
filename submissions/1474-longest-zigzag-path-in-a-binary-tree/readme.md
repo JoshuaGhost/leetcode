@@ -1,0 +1,1 @@
+# [1474 - Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) </br> Difficulty: Medium

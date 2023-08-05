@@ -1,0 +1,1 @@
+# [1791 - Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) </br> Difficulty: Easy

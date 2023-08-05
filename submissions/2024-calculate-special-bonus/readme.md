@@ -1,0 +1,1 @@
+# [2024 - Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) </br> Difficulty: Easy

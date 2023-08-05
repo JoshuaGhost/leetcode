@@ -1,0 +1,1 @@
+# [1669 - Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) </br> Difficulty: Hard
