@@ -1,0 +1,1 @@
+# [1220 - Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) </br> Difficulty: Hard
