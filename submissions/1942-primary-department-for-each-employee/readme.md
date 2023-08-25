@@ -1,0 +1,1 @@
+# [1942 - Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) </br> Difficulty: Easy
