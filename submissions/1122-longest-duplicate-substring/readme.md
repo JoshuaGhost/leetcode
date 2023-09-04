@@ -1,0 +1,1 @@
+# [1122 - Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) </br> Difficulty: Hard

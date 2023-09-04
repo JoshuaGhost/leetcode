@@ -1,0 +1,1 @@
+# [2038 - Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) </br> Difficulty: Medium
